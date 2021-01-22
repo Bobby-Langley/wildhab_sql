@@ -1,0 +1,22 @@
+{
+  "name": "wildhab_sql",
+  "version": "1.0.0",
+  "description": "Wild Habitat db exercise using SQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bobby-Langley/wildhab_sql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bobby-Langley/wildhab_sql/issues"
+  },
+  "homepage": "https://github.com/Bobby-Langley/wildhab_sql#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
